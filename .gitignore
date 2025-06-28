@@ -1,0 +1,14 @@
+__pycache__
+Data
+*.h5
+*.png
+*.jpg
+val
+*.pt
+*.cache
+yolov8n-cls.pt
+train
+train2
+*.p
+*.DS_Store
+image dc/computer vision.code-workspace
